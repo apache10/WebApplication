@@ -36,8 +36,8 @@ class Payment extends CI_Controller {
 			
 			//set api key
 			$stripe = array(
-			  "secret_key"      => "sk_test_rs7AKolcjSKQPkJdaOhGoD1F00odyHlqAw",
-			  "publishable_key" => "pk_test_LlHZHX0t4PpVbjDDrb1WIzgF00WBtkZlfK"
+			  "secret_key"      => "",
+			  "publishable_key" => ""
 			);
 			
 			\Stripe\Stripe::setApiKey($stripe['secret_key']);
