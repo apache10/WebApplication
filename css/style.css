@@ -1,0 +1,104 @@
+body{
+	/* background-image: url("../images/background3.jpg"); */
+	/* background: #262730; */
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+textarea{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.bg-img {
+  /* The image used */
+	background-image: url("../images/bg-sl1.JPG");
+	background-repeat: no-repeat;
+	min-height: 655px;
+	background-size: cover;
+}
+.bg2{
+	background-image: url("../images/Pizza-Background.jpg");
+	background-repeat: no-repeat;
+	min-height: 655px;
+	background-size: cover;
+}
+.bg-SL
+{
+	background-image: url("../images/bg-sl1.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.home
+{
+	background: #262730;
+	/* background: #1c45cc; */
+	opacity: 0.9;
+	border-radius: 10px;
+}
+.header-h1 {
+	text-align: center;
+	font-size: 3em;
+	color: white;
+}
+.header-p
+{
+	font-size: 0.5em;
+	color: white;
+}
+.white-text
+{
+	color: white;
+}
+.register {
+	border-style: solid;
+	border-radius: 5px;
+}
+#error_msg {
+	color: red;
+}
+.search-style
+{
+	width: 40rem;
+	margin-inline-start: 12em;
+}
+.search-style-2
+{
+	width: 40rem;
+	margin-inline-start: 20em;
+}
+.gb-one{
+	background: #ffffff;
+}
+.bg-three
+{
+	background: #a63a50;
+}
+.bg-four
+{
+	/*background: #77ba99;*/
+	background: #009a00;
+	color:white;
+}
+.search-style
+{
+	border-radius: 6px;
+}
+.btn-search
+{
+	border-radius: 6px;
+	color: #eff0d1;
+}
+.bg-not
+{
+	background: #d7c0d0;
+}
+.bg-link
+{
+	background: #5dce96;
+}
+.menu-list
+{
+	margin: 4em;
+	border-radius: 8px;
+	background: #d7c0d0;
+	color:#262730;
+}
